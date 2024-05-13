@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Manually building a tile server (Ubuntu 24.04)
 dist: Ubuntu 24.04
 dl_timestamp: "2024-04-24T20:21:40Z"
